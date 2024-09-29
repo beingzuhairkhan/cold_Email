@@ -1,0 +1,12 @@
+langchain-groq
+chromadb
+langchain
+streamlit
+python-dotenv
+langchain_community
+ChatGroq
+pandas
+uuid
+
+
+-e .
