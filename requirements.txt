@@ -9,4 +9,3 @@ pandas
 uuid
 
 
--e .
